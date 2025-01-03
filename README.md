@@ -90,4 +90,4 @@ Contributions are welcome! If you find a bug or have a suggestion, please open a
 
 ## License
 
-[MIT License](LICENSE) (Add a LICENSE file to your repository)
+[MIT License](LICENSE)
